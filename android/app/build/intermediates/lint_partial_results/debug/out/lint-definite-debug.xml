@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<incidents format="6" by="lint 7.0.4" type="incidents">
+
+    <incident
+        id="IconDensities"
+        severity="warning"
+        message="Missing the following drawables in `drawable-xhdpi`: node_modules_reactnative_libraries_newappscreen_components_logo.png, node_modules_reactnavigation_elements_src_assets_backiconmask.png, source_assets_images_cancel.png, source_assets_images_ic_active_tag.png, source_assets_images_ic_app_icon.png... (30 more)">
+        <location
+            file="$APP/src/main/res/drawable-xhdpi"/>
+    </incident>
+
+    <incident
+        id="IconDensities"
+        severity="warning"
+        message="Missing the following drawables in `drawable-xxhdpi`: node_modules_reactnative_libraries_newappscreen_components_logo.png, node_modules_reactnavigation_elements_src_assets_backiconmask.png, source_assets_images_cancel.png, source_assets_images_ic_active_tag.png, source_assets_images_ic_app_icon.png... (30 more)">
+        <location
+            file="$APP/src/main/res/drawable-xxhdpi"/>
+    </incident>
+
+    <incident
+        id="IconDensities"
+        severity="warning"
+        message="Missing the following drawables in `drawable-hdpi`: node_modules_reactnative_libraries_newappscreen_components_logo.png, node_modules_reactnativegoogleplacesautocomplete_images_powered_by_google_on_white.png, node_modules_reactnavigation_elements_src_assets_backiconmask.png, source_assets_images_cancel.png, source_assets_images_ic_active_tag.png... (31 more)">
+        <location
+            file="$APP/src/main/res/drawable-hdpi"/>
+    </incident>
+
+</incidents>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<incidents format="6" by="lint 7.0.4" type="conditional_incidents">
+
+    <incident
+        id="ScopedStorage"
+        severity="warning"
+        message="">
+        <location
+            file="$APP/src/main/AndroidManifest.xml"
+            line="12"
+            column="36"
+            startOffset="673"
+            endLine="12"
+            endColumn="77"
+            endOffset="714"/>
+        <map>
+            <entry
+                name="maxSdk"
+                int="2147483647"/>
+        </map>
+    </incident>
+
+    <incident
+        id="LockedOrientationActivity"
+        severity="warning"
+        message="Expecting `android:screenOrientation=&quot;unspecified&quot;` or `&quot;fullSensor&quot;` for this activity so the user can use the application in any orientation and provide a great experience on Chrome OS devices">
+        <fix-attribute
+            description="Set screenOrientation=&quot;fullSensor&quot;"
+            robot="true"
+            independent="true"
+            namespace="http://schemas.android.com/apk/res/android"
+            attribute="screenOrientation"
+            value="fullSensor"/>
+        <location
+            file="$APP/src/main/AndroidManifest.xml"
+            line="31"
+            column="9"
+            startOffset="1472"
+            endLine="31"
+            endColumn="45"
+            endOffset="1508"/>
+        <map>
+            <condition library="false"/>
+        </map>
+    </incident>
+
+</incidents>

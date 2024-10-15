@@ -1,0 +1,266 @@
+[
+    {
+        "merged": "/Users/2000104947/Documents/workspace/exchequerreactnative-main/android/app/build/intermediates/merged_res/release/drawable-mdpi_source_assets_images_ic_dropdown.png.flat",
+        "source": "/Users/2000104947/Documents/workspace/exchequerreactnative-main/android/app/src/main/res/drawable-mdpi/source_assets_images_ic_dropdown.png"
+    },
+    {
+        "merged": "/Users/2000104947/Documents/workspace/exchequerreactnative-main/android/app/build/intermediates/merged_res/release/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backiconmask.png.flat",
+        "source": "/Users/2000104947/Documents/workspace/exchequerreactnative-main/android/app/src/main/res/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backiconmask.png"
+    },
+    {
+        "merged": "/Users/2000104947/Documents/workspace/exchequerreactnative-main/android/app/build/intermediates/merged_res/release/drawable-mdpi_node_modules_reactnative_libraries_newappscreen_components_logo.png.flat",
+        "source": "/Users/2000104947/Documents/workspace/exchequerreactnative-main/android/app/src/main/res/drawable-mdpi/node_modules_reactnative_libraries_newappscreen_components_logo.png"
+    },
+    {
+        "merged": "/Users/2000104947/Documents/workspace/exchequerreactnative-main/android/app/build/intermediates/merged_res/release/drawable-mdpi_source_assets_images_ic_reports.png.flat",
+        "source": "/Users/2000104947/Documents/workspace/exchequerreactnative-main/android/app/src/main/res/drawable-mdpi/source_assets_images_ic_reports.png"
+    },
+    {
+        "merged": "/Users/2000104947/Documents/workspace/exchequerreactnative-main/android/app/build/intermediates/merged_res/release/drawable_rn_edit_text_material.xml.flat",
+        "source": "/Users/2000104947/Documents/workspace/exchequerreactnative-main/android/app/src/main/res/drawable/rn_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/2000104947/Documents/workspace/exchequerreactnative-main/android/app/build/intermediates/merged_res/release/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/2000104947/Documents/workspace/exchequerreactnative-main/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/2000104947/Documents/workspace/exchequerreactnative-main/android/app/build/intermediates/merged_res/release/drawable-mdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "/Users/2000104947/Documents/workspace/exchequerreactnative-main/android/app/src/main/res/drawable-mdpi/node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "/Users/2000104947/Documents/workspace/exchequerreactnative-main/android/app/build/intermediates/merged_res/release/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "/Users/2000104947/Documents/workspace/exchequerreactnative-main/android/app/src/main/res/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/2000104947/Documents/workspace/exchequerreactnative-main/android/app/build/intermediates/merged_res/release/drawable-xxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "/Users/2000104947/Documents/workspace/exchequerreactnative-main/android/app/src/main/res/drawable-xxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/2000104947/Documents/workspace/exchequerreactnative-main/android/app/build/intermediates/merged_res/release/drawable-mdpi_source_assets_images_ic_checkbox.png.flat",
+        "source": "/Users/2000104947/Documents/workspace/exchequerreactnative-main/android/app/src/main/res/drawable-mdpi/source_assets_images_ic_checkbox.png"
+    },
+    {
+        "merged": "/Users/2000104947/Documents/workspace/exchequerreactnative-main/android/app/build/intermediates/merged_res/release/drawable-mdpi_source_assets_images_ic_reports_fill.png.flat",
+        "source": "/Users/2000104947/Documents/workspace/exchequerreactnative-main/android/app/src/main/res/drawable-mdpi/source_assets_images_ic_reports_fill.png"
+    },
+    {
+        "merged": "/Users/2000104947/Documents/workspace/exchequerreactnative-main/android/app/build/intermediates/merged_res/release/drawable-mdpi_source_assets_images_ic_active_tag.png.flat",
+        "source": "/Users/2000104947/Documents/workspace/exchequerreactnative-main/android/app/src/main/res/drawable-mdpi/source_assets_images_ic_active_tag.png"
+    },
+    {
+        "merged": "/Users/2000104947/Documents/workspace/exchequerreactnative-main/android/app/build/intermediates/merged_res/release/drawable-mdpi_source_assets_images_ic_project.png.flat",
+        "source": "/Users/2000104947/Documents/workspace/exchequerreactnative-main/android/app/src/main/res/drawable-mdpi/source_assets_images_ic_project.png"
+    },
+    {
+        "merged": "/Users/2000104947/Documents/workspace/exchequerreactnative-main/android/app/build/intermediates/merged_res/release/drawable-mdpi_source_assets_images_ic_login_success.png.flat",
+        "source": "/Users/2000104947/Documents/workspace/exchequerreactnative-main/android/app/src/main/res/drawable-mdpi/source_assets_images_ic_login_success.png"
+    },
+    {
+        "merged": "/Users/2000104947/Documents/workspace/exchequerreactnative-main/android/app/build/intermediates/merged_res/release/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/2000104947/Documents/workspace/exchequerreactnative-main/android/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/2000104947/Documents/workspace/exchequerreactnative-main/android/app/build/intermediates/merged_res/release/drawable-mdpi_source_assets_images_ic_password_hint.png.flat",
+        "source": "/Users/2000104947/Documents/workspace/exchequerreactnative-main/android/app/src/main/res/drawable-mdpi/source_assets_images_ic_password_hint.png"
+    },
+    {
+        "merged": "/Users/2000104947/Documents/workspace/exchequerreactnative-main/android/app/build/intermediates/merged_res/release/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/2000104947/Documents/workspace/exchequerreactnative-main/android/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/2000104947/Documents/workspace/exchequerreactnative-main/android/app/build/intermediates/merged_res/release/drawable-mdpi_source_assets_images_ic_search.png.flat",
+        "source": "/Users/2000104947/Documents/workspace/exchequerreactnative-main/android/app/src/main/res/drawable-mdpi/source_assets_images_ic_search.png"
+    },
+    {
+        "merged": "/Users/2000104947/Documents/workspace/exchequerreactnative-main/android/app/build/intermediates/merged_res/release/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "/Users/2000104947/Documents/workspace/exchequerreactnative-main/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "/Users/2000104947/Documents/workspace/exchequerreactnative-main/android/app/build/intermediates/merged_res/release/drawable-xxxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "/Users/2000104947/Documents/workspace/exchequerreactnative-main/android/app/src/main/res/drawable-xxxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/2000104947/Documents/workspace/exchequerreactnative-main/android/app/build/intermediates/merged_res/release/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/Users/2000104947/Documents/workspace/exchequerreactnative-main/android/app/src/main/res/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/2000104947/Documents/workspace/exchequerreactnative-main/android/app/build/intermediates/merged_res/release/drawable-mdpi_source_assets_images_ic_payment.png.flat",
+        "source": "/Users/2000104947/Documents/workspace/exchequerreactnative-main/android/app/src/main/res/drawable-mdpi/source_assets_images_ic_payment.png"
+    },
+    {
+        "merged": "/Users/2000104947/Documents/workspace/exchequerreactnative-main/android/app/build/intermediates/merged_res/release/mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "/Users/2000104947/Documents/workspace/exchequerreactnative-main/android/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "/Users/2000104947/Documents/workspace/exchequerreactnative-main/android/app/build/intermediates/merged_res/release/drawable-mdpi_source_assets_images_ic_loading.png.flat",
+        "source": "/Users/2000104947/Documents/workspace/exchequerreactnative-main/android/app/src/main/res/drawable-mdpi/source_assets_images_ic_loading.png"
+    },
+    {
+        "merged": "/Users/2000104947/Documents/workspace/exchequerreactnative-main/android/app/build/intermediates/merged_res/release/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/2000104947/Documents/workspace/exchequerreactnative-main/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/2000104947/Documents/workspace/exchequerreactnative-main/android/app/build/intermediates/merged_res/release/drawable-mdpi_source_assets_images_ic_right_arrow.png.flat",
+        "source": "/Users/2000104947/Documents/workspace/exchequerreactnative-main/android/app/src/main/res/drawable-mdpi/source_assets_images_ic_right_arrow.png"
+    },
+    {
+        "merged": "/Users/2000104947/Documents/workspace/exchequerreactnative-main/android/app/build/intermediates/merged_res/release/drawable-mdpi_node_modules_reactnativegoogleplacesautocomplete_images_powered_by_google_on_white.png.flat",
+        "source": "/Users/2000104947/Documents/workspace/exchequerreactnative-main/android/app/src/main/res/drawable-mdpi/node_modules_reactnativegoogleplacesautocomplete_images_powered_by_google_on_white.png"
+    },
+    {
+        "merged": "/Users/2000104947/Documents/workspace/exchequerreactnative-main/android/app/build/intermediates/merged_res/release/drawable-mdpi_source_assets_images_ic_splash_icon.png.flat",
+        "source": "/Users/2000104947/Documents/workspace/exchequerreactnative-main/android/app/src/main/res/drawable-mdpi/source_assets_images_ic_splash_icon.png"
+    },
+    {
+        "merged": "/Users/2000104947/Documents/workspace/exchequerreactnative-main/android/app/build/intermediates/merged_res/release/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Users/2000104947/Documents/workspace/exchequerreactnative-main/android/app/src/main/res/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/2000104947/Documents/workspace/exchequerreactnative-main/android/app/build/intermediates/merged_res/release/drawable-mdpi_source_assets_images_ic_unchecked.png.flat",
+        "source": "/Users/2000104947/Documents/workspace/exchequerreactnative-main/android/app/src/main/res/drawable-mdpi/source_assets_images_ic_unchecked.png"
+    },
+    {
+        "merged": "/Users/2000104947/Documents/workspace/exchequerreactnative-main/android/app/build/intermediates/merged_res/release/drawable-mdpi_source_assets_images_ic_back.png.flat",
+        "source": "/Users/2000104947/Documents/workspace/exchequerreactnative-main/android/app/src/main/res/drawable-mdpi/source_assets_images_ic_back.png"
+    },
+    {
+        "merged": "/Users/2000104947/Documents/workspace/exchequerreactnative-main/android/app/build/intermediates/merged_res/release/drawable-xxhdpi_node_modules_reactnativegoogleplacesautocomplete_images_powered_by_google_on_white.png.flat",
+        "source": "/Users/2000104947/Documents/workspace/exchequerreactnative-main/android/app/src/main/res/drawable-xxhdpi/node_modules_reactnativegoogleplacesautocomplete_images_powered_by_google_on_white.png"
+    },
+    {
+        "merged": "/Users/2000104947/Documents/workspace/exchequerreactnative-main/android/app/build/intermediates/merged_res/release/drawable-mdpi_source_assets_images_ic_update.png.flat",
+        "source": "/Users/2000104947/Documents/workspace/exchequerreactnative-main/android/app/src/main/res/drawable-mdpi/source_assets_images_ic_update.png"
+    },
+    {
+        "merged": "/Users/2000104947/Documents/workspace/exchequerreactnative-main/android/app/build/intermediates/merged_res/release/drawable-mdpi_source_assets_images_ic_home_fill.png.flat",
+        "source": "/Users/2000104947/Documents/workspace/exchequerreactnative-main/android/app/src/main/res/drawable-mdpi/source_assets_images_ic_home_fill.png"
+    },
+    {
+        "merged": "/Users/2000104947/Documents/workspace/exchequerreactnative-main/android/app/build/intermediates/merged_res/release/drawable-mdpi_source_assets_images_ic_edit.png.flat",
+        "source": "/Users/2000104947/Documents/workspace/exchequerreactnative-main/android/app/src/main/res/drawable-mdpi/source_assets_images_ic_edit.png"
+    },
+    {
+        "merged": "/Users/2000104947/Documents/workspace/exchequerreactnative-main/android/app/build/intermediates/merged_res/release/drawable-mdpi_source_assets_images_ic_dummy_profile.png.flat",
+        "source": "/Users/2000104947/Documents/workspace/exchequerreactnative-main/android/app/src/main/res/drawable-mdpi/source_assets_images_ic_dummy_profile.png"
+    },
+    {
+        "merged": "/Users/2000104947/Documents/workspace/exchequerreactnative-main/android/app/build/intermediates/merged_res/release/drawable-mdpi_source_assets_images_ic_plus.png.flat",
+        "source": "/Users/2000104947/Documents/workspace/exchequerreactnative-main/android/app/src/main/res/drawable-mdpi/source_assets_images_ic_plus.png"
+    },
+    {
+        "merged": "/Users/2000104947/Documents/workspace/exchequerreactnative-main/android/app/build/intermediates/merged_res/release/drawable-mdpi_source_assets_images_ic_project_fill.png.flat",
+        "source": "/Users/2000104947/Documents/workspace/exchequerreactnative-main/android/app/src/main/res/drawable-mdpi/source_assets_images_ic_project_fill.png"
+    },
+    {
+        "merged": "/Users/2000104947/Documents/workspace/exchequerreactnative-main/android/app/build/intermediates/merged_res/release/drawable-xhdpi_node_modules_reactnativegoogleplacesautocomplete_images_powered_by_google_on_white.png.flat",
+        "source": "/Users/2000104947/Documents/workspace/exchequerreactnative-main/android/app/src/main/res/drawable-xhdpi/node_modules_reactnativegoogleplacesautocomplete_images_powered_by_google_on_white.png"
+    },
+    {
+        "merged": "/Users/2000104947/Documents/workspace/exchequerreactnative-main/android/app/build/intermediates/merged_res/release/drawable-mdpi_source_assets_images_cancel.png.flat",
+        "source": "/Users/2000104947/Documents/workspace/exchequerreactnative-main/android/app/src/main/res/drawable-mdpi/source_assets_images_cancel.png"
+    },
+    {
+        "merged": "/Users/2000104947/Documents/workspace/exchequerreactnative-main/android/app/build/intermediates/merged_res/release/drawable-mdpi_source_assets_images_ic_payment_fill.png.flat",
+        "source": "/Users/2000104947/Documents/workspace/exchequerreactnative-main/android/app/src/main/res/drawable-mdpi/source_assets_images_ic_payment_fill.png"
+    },
+    {
+        "merged": "/Users/2000104947/Documents/workspace/exchequerreactnative-main/android/app/build/intermediates/merged_res/release/drawable-mdpi_source_assets_images_ic_app_icon.png.flat",
+        "source": "/Users/2000104947/Documents/workspace/exchequerreactnative-main/android/app/src/main/res/drawable-mdpi/source_assets_images_ic_app_icon.png"
+    },
+    {
+        "merged": "/Users/2000104947/Documents/workspace/exchequerreactnative-main/android/app/build/intermediates/merged_res/release/drawable-xxxhdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "/Users/2000104947/Documents/workspace/exchequerreactnative-main/android/app/src/main/res/drawable-xxxhdpi/node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "/Users/2000104947/Documents/workspace/exchequerreactnative-main/android/app/build/intermediates/merged_res/release/mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "/Users/2000104947/Documents/workspace/exchequerreactnative-main/android/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "/Users/2000104947/Documents/workspace/exchequerreactnative-main/android/app/build/intermediates/merged_res/release/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/2000104947/Documents/workspace/exchequerreactnative-main/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/2000104947/Documents/workspace/exchequerreactnative-main/android/app/build/intermediates/merged_res/release/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/2000104947/Documents/workspace/exchequerreactnative-main/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/2000104947/Documents/workspace/exchequerreactnative-main/android/app/build/intermediates/merged_res/release/drawable-xhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "/Users/2000104947/Documents/workspace/exchequerreactnative-main/android/app/src/main/res/drawable-xhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/2000104947/Documents/workspace/exchequerreactnative-main/android/app/build/intermediates/merged_res/release/drawable-mdpi_source_assets_images_ic_email_hint.png.flat",
+        "source": "/Users/2000104947/Documents/workspace/exchequerreactnative-main/android/app/src/main/res/drawable-mdpi/source_assets_images_ic_email_hint.png"
+    },
+    {
+        "merged": "/Users/2000104947/Documents/workspace/exchequerreactnative-main/android/app/build/intermediates/merged_res/release/drawable-mdpi_source_assets_images_ic_home.png.flat",
+        "source": "/Users/2000104947/Documents/workspace/exchequerreactnative-main/android/app/src/main/res/drawable-mdpi/source_assets_images_ic_home.png"
+    },
+    {
+        "merged": "/Users/2000104947/Documents/workspace/exchequerreactnative-main/android/app/build/intermediates/merged_res/release/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/2000104947/Documents/workspace/exchequerreactnative-main/android/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/2000104947/Documents/workspace/exchequerreactnative-main/android/app/build/intermediates/merged_res/release/drawable-xxhdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "/Users/2000104947/Documents/workspace/exchequerreactnative-main/android/app/src/main/res/drawable-xxhdpi/node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "/Users/2000104947/Documents/workspace/exchequerreactnative-main/android/app/build/intermediates/merged_res/release/drawable-mdpi_source_assets_images_ic_dummy_profile_fill.png.flat",
+        "source": "/Users/2000104947/Documents/workspace/exchequerreactnative-main/android/app/src/main/res/drawable-mdpi/source_assets_images_ic_dummy_profile_fill.png"
+    },
+    {
+        "merged": "/Users/2000104947/Documents/workspace/exchequerreactnative-main/android/app/build/intermediates/merged_res/release/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/Users/2000104947/Documents/workspace/exchequerreactnative-main/android/app/src/main/res/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/2000104947/Documents/workspace/exchequerreactnative-main/android/app/build/intermediates/merged_res/release/drawable-hdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "/Users/2000104947/Documents/workspace/exchequerreactnative-main/android/app/src/main/res/drawable-hdpi/node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "/Users/2000104947/Documents/workspace/exchequerreactnative-main/android/app/build/intermediates/merged_res/release/drawable-mdpi_source_assets_images_ic_setting.png.flat",
+        "source": "/Users/2000104947/Documents/workspace/exchequerreactnative-main/android/app/src/main/res/drawable-mdpi/source_assets_images_ic_setting.png"
+    },
+    {
+        "merged": "/Users/2000104947/Documents/workspace/exchequerreactnative-main/android/app/build/intermediates/merged_res/release/drawable-mdpi_source_assets_images_search_btn.png.flat",
+        "source": "/Users/2000104947/Documents/workspace/exchequerreactnative-main/android/app/src/main/res/drawable-mdpi/source_assets_images_search_btn.png"
+    },
+    {
+        "merged": "/Users/2000104947/Documents/workspace/exchequerreactnative-main/android/app/build/intermediates/merged_res/release/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "/Users/2000104947/Documents/workspace/exchequerreactnative-main/android/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "/Users/2000104947/Documents/workspace/exchequerreactnative-main/android/app/build/intermediates/merged_res/release/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/2000104947/Documents/workspace/exchequerreactnative-main/android/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/2000104947/Documents/workspace/exchequerreactnative-main/android/app/build/intermediates/merged_res/release/drawable-mdpi_source_assets_images_ic_expired_tag.png.flat",
+        "source": "/Users/2000104947/Documents/workspace/exchequerreactnative-main/android/app/src/main/res/drawable-mdpi/source_assets_images_ic_expired_tag.png"
+    },
+    {
+        "merged": "/Users/2000104947/Documents/workspace/exchequerreactnative-main/android/app/build/intermediates/merged_res/release/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/2000104947/Documents/workspace/exchequerreactnative-main/android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/2000104947/Documents/workspace/exchequerreactnative-main/android/app/build/intermediates/merged_res/release/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "/Users/2000104947/Documents/workspace/exchequerreactnative-main/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "/Users/2000104947/Documents/workspace/exchequerreactnative-main/android/app/build/intermediates/merged_res/release/drawable-mdpi_source_assets_images_ic_upload.png.flat",
+        "source": "/Users/2000104947/Documents/workspace/exchequerreactnative-main/android/app/src/main/res/drawable-mdpi/source_assets_images_ic_upload.png"
+    },
+    {
+        "merged": "/Users/2000104947/Documents/workspace/exchequerreactnative-main/android/app/build/intermediates/merged_res/release/drawable-mdpi_source_assets_images_ic_delete.png.flat",
+        "source": "/Users/2000104947/Documents/workspace/exchequerreactnative-main/android/app/src/main/res/drawable-mdpi/source_assets_images_ic_delete.png"
+    },
+    {
+        "merged": "/Users/2000104947/Documents/workspace/exchequerreactnative-main/android/app/build/intermediates/merged_res/release/drawable-mdpi_source_assets_images_ic_calendar.png.flat",
+        "source": "/Users/2000104947/Documents/workspace/exchequerreactnative-main/android/app/src/main/res/drawable-mdpi/source_assets_images_ic_calendar.png"
+    },
+    {
+        "merged": "/Users/2000104947/Documents/workspace/exchequerreactnative-main/android/app/build/intermediates/merged_res/release/drawable-xhdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "/Users/2000104947/Documents/workspace/exchequerreactnative-main/android/app/src/main/res/drawable-xhdpi/node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "/Users/2000104947/Documents/workspace/exchequerreactnative-main/android/app/build/intermediates/merged_res/release/drawable-hdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "/Users/2000104947/Documents/workspace/exchequerreactnative-main/android/app/src/main/res/drawable-hdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    }
+]

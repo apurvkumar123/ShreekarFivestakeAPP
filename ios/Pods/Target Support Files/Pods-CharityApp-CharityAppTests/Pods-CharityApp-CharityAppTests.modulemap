@@ -1,0 +1,6 @@
+module Pods_CharityApp_CharityAppTests {
+  umbrella header "Pods-CharityApp-CharityAppTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

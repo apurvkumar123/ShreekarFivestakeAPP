@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "830152689220",
+    "project_id": "shreekar-540e5",
+    "storage_bucket": "shreekar-540e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830152689220:android:f02d52c27a4b7b08ba9e11",
+        "android_client_info": {
+          "package_name": "com.shreekar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDngPC-KUDC1ZGwA7bT0kgqQ7Asgjr82dk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
